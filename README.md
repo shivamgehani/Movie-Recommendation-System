@@ -1,11 +1,11 @@
-=# Movie Recommendation System
+# Movie Recommendation System
 
 ## Description
-A movie recommendation system that suggests movies to users based on their preferences and viewing history. This project utilizes machine learning algorithms to analyze user data and provide personalized recommendations.
+A movie recommendation system built in Python that suggests movies to users based on their preferences and viewing history. This project utilizes the K-Nearest Neighbors (KNN) algorithm to analyze user data and provide personalized recommendations.
 
 ## Features
 - User registration and authentication
-- Personalized movie recommendations
+- Personalized movie recommendations using KNN algorithm
 - Search for movies
 - View movie details
 - Rate and review movies
